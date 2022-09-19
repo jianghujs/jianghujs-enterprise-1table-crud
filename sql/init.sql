@@ -425,7 +425,7 @@ from
   )
 where
   (
-  `jianghujs_enterprise_data_repository`.`jianghujs_enterprise_user_app_management___user_app`.`appId` = 'demo_xiaoapp'
+  `jianghujs_enterprise_data_repository`.`jianghujs_enterprise_user_app_management___user_app`.`appId` = '1table-crud'
   );
 
 
